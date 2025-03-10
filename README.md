@@ -1,6 +1,6 @@
 # RREADME.md
-<h1 align="center">Olá! Eu sou Patricia Dias.</h1>
-<h3 align="center">Apaixonada por ciência e análise de dados no mundo corporativo.</h3>
+<h1 align="center">Olá! Eu sou Patricia Dias</h1>
+<h3 align="center">Apaixonada por ciência e análise de dados no mundo corporativo</h3>
 
 - 🔭 Atualmente estou trabalhando com Análise de Dados e Machine Learning **Modelo de Regressão Preditivo para Avaliação de Imóvel**
 
